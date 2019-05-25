@@ -99,7 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddeaba5c306fef841ad1272daf092c86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  broken: {fileID: 21300000, guid: ea68bcf00e28d4a4fb70b7ec62a94bb1, type: 3}
+  broken: {fileID: 0}
   fade: 0
   deadTime: 0
 --- !u!212 &212013883067007492
